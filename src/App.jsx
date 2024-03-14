@@ -16,9 +16,8 @@ const App = () => {
       <Bot />
       <Hero />
       <About />
-      <Skills />
-      <Hireme />
       <Project />
+      <Hireme />
       <Contact />
       <Footer />
     </div>
