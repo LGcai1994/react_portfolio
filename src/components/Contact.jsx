@@ -2,11 +2,11 @@ import React from "react";
 
 const Contact = () => {
   const contact_info = [
-    { logo: "mail", text: "codeaprogram@gmail.com" },
-    { logo: "logo-whatsapp", text: "123 456 780" },
+    { logo: "mail", text: "cailigang1994@outlook.com" },
+    { logo: "logo-whatsapp", text: "+86 188 1144 2100" },
     {
       logo: "location",
-      text: "demo location",
+      text: "Guangzhou China",
     },
   ];
   return (

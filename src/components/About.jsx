@@ -20,10 +20,7 @@ const About = () => {
           <div className="p-2">
             <div className="text-gray-300 my-3">
               <p className="text-justify leading-7 w-11/12 mx-auto">
-                Graduated as master from BJTU in 2019,  then hired by GTMC as a project manager for 3 years.
-                Become interested in web development and dedicated to it in 2022.
-                Get hird by a local small-scale startup in 2023 as a fontend developer,
-                finished 10+ projects, mainly focous on react skills
+              Graduated with a master's degree from BJTU(Beijing jiaotong university) in 2019, then employed by GTMC(Guangzhou Toyota Motor Co) as a automotive project manager for three years. Became interested in web development in 2022 and dedicated myself to it. Joined a local small-scale startup in 2023 as a frontend developer, where I completed more than 5 projects, mainly focusing on React.
               </p>
 
               <div className="flex mt-10 items-center gap-7">
