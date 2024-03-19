@@ -4,7 +4,7 @@ responsive portfolio using react js and tailwind css
 #Todo List:
 1.change pictures
 2.insert your own projects in it
-3.cv upload
+3.cv make and upload
 
 #Done:
 0.change hero y padding and margin
