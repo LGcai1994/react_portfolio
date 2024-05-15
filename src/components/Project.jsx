@@ -20,9 +20,9 @@ const Project = () => {
     },
     {
       img: project2,
-      name: "Job search Web App",
-      github_link: "https://github.com/Sridhar-C-25/jobsearchapp",
-      live_link: "https://myjobsearch.netlify.app",
+      name: "MiLog",
+      github_link: "https://github.com/LGcai1994/quick_blog",
+      live_link: "https://quick-blog-five.vercel.app/",
     },
     {
       img: project3,
