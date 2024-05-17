@@ -2,7 +2,7 @@ import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import project1 from "../assets/images/project-1.png";
 import project2 from "../assets/images/project-2.png";
-import project3 from "../assets/images/project-3.jpg";
+import project3 from "../assets/images/project-3.png";
 import project4 from "../assets/images/project-4.jpg";
 import project5 from "../assets/images/project-5.png";
 import project_person from "../assets/images/project_person1.png";
@@ -20,15 +20,15 @@ const Project = () => {
     },
     {
       img: project2,
-      name: "MiLog",
+      name: "Mi Log",
       github_link: "https://github.com/LGcai1994/quick_blog",
       live_link: "https://quick-blog-five.vercel.app/",
     },
     {
       img: project3,
-      name: "Highking",
-      github_link: "https://github.com/Sridhar-C-25/highking",
-      live_link: "https://highking01.netlify.app",
+      name: "Simple Blog",
+      github_link: "https://github.com/LGcai1994/simple-blog",
+      live_link: "https://simple-blog-fawn-seven.vercel.app/",
     },
     {
       img: project4,
